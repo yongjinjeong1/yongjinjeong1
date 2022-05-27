@@ -1,10 +1,50 @@
-- 👋 Hi, I’m @yongjinjeong1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 반갑습니다, 저는 세명대학교에 재학중인 정용진 학생입니다.
 
-<!---
-yongjinjeong1/yongjinjeong1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 자기 소개
+
+> 개발자를 꿈꾸는 학생 입니다, 저의 꿈은 백엔드 개발자로 서버 관련 분야에서 일하는 것을 목표로 하고 있습니다,
+> 
+
+## 현재 다룰 수 있는 언어
+
+C, C++, JAVA, Python 을 배우고 있으며 부족한 점이 많지만 간단한 매크로 프로그램을 작성하는 등의 응용이 가능합니다.
+
+```sh
+C, C++, JAVA, Python
+```
+
+최종 목표
+
+```sh
+백엔드 서버 개발자
+```
+
+## 초보 개발자로써
+
+개발 과정에 있어서 알아가는 것이 즐겁습니다, 가령 C 언어로 윈도우 프로그램을 작성하거나 Python 과 Selenium 을 이용한 자동 예매 매크로를 만드는 단계에서 막히는 부분이 있더라도 하나하나 알아가며 배우고 있습니다.
+
+미숙한 점이 많지만 절대 포기하지 않습니다.
+
+## 꿈을 위한 과정
+
+백엔드 개발자는 결코 쉽지 않다는 것을 잘 알고 있습니다, 데이터를 다루는 민감한 작업인 만큼 프로그래밍, 데이터베이스, 웹 서버, 네트워크, 인프라 등에 대한 지식이 요구되는 분야인 만큼, 해당 과정을 따르고 있습니다.
+
+```sh
+자바스크립트, HTML, CSS, NodeJS, Es2015+, jQuery에 대한 이해
+
+호환성이 좋고 간결한 코드를 작성할 수 있는 역량 증진
+
+데이터와 데이터베이스의 이해
+```
+
+## 마치며
+
+Github를 둘러보면서 이미 현직에 계신 많은 개발자와 저처럼 꿈을 가지고 한걸음 나아가는 초보 개발자들이 굉장히 많은걸 느꼈습니다, 
+
+Github에 적은 이 자기소개서에 제 이력이 하나 둘씩 늘어나며 최종적으론 백엔드 개발자로써 당당하게 저의 개발 환경과 개발 과정을 이 Github에 공유하여 훗날 저처럼 어려움을 겪는 초보 개발자분들에게 힘이 되어주고 싶습니다.
+
+
+
+
+
+
