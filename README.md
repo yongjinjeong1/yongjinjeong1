@@ -10,7 +10,7 @@
 C, C++, JAVA, Python 을 배우고 있으며 부족한 점이 많지만 간단한 매크로 프로그램과 Flutter를 이용한 앱 개발과 같은 응용이 가능합니다.
 
 ```sh
-C, C++, JAVA, Python
+C, C++, JAVA, Python, Flutter
 ```
 
 최종 목표
