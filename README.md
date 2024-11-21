@@ -39,7 +39,7 @@ DBeaver, 오라클, MariaDB, Mybatis, Android Studio, FlutterVMware, Virtual Box
 데이터와 데이터베이스의 이해
 ```
 
-## 경력
+## 각종 활동
 
 ![image](https://github.com/user-attachments/assets/43fdbb8b-07b0-40be-8a29-15c0a8e011d1)
 
