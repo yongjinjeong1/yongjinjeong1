@@ -10,13 +10,15 @@
 C, C++, JAVA, Python 을 배우고 있으며 부족한 점이 많지만 간단한 매크로 프로그램과 Flutter를 이용한 앱 개발과 같은 응용이 가능합니다.
 
 ```sh
-C, C++, JAVA, Python, Flutter
+Java, Javascript, EXERD, HTML, CSS, Visual Studio Code, Adobe photoshop
+JQuery, Ajax, Spring Framework, 전자정부프레임워크, Tomcat, GitHub
+DBeaver, 오라클, MariaDB, Mybatis, Android Studio, FlutterVMware, Virtual Box, Cisco Packet Tracer, Google Colab
 ```
 
 최종 목표
 
 ```sh
-백엔드 서버 개발자
+웹개발 및 네트워크 시스템 엔지니어
 ```
 
 ## 초보 개발자로써
