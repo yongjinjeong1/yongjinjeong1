@@ -12,7 +12,7 @@ C, C++, JAVA, Python 을 배우고 있으며 부족한 점이 많지만 간단�
 ```sh
 Java, Javascript, EXERD, HTML, CSS, Visual Studio Code, Adobe photoshop
 JQuery, Ajax, Spring Framework, 전자정부프레임워크, Tomcat, GitHub
-DBeaver, 오라클, MariaDB, Mybatis, Android Studio, FlutterVMware, Virtual Box, Cisco Packet Tracer, Google Colab
+DBeaver, 오라클, MariaDB, Mybatis, Android Studio, Flutter, VMware, Virtual Box, Cisco Packet Tracer, Google Colab
 ```
 
 최종 목표
